@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon CV</string>
+    <string name="user_name">Peacemaker Otoo</string>
+    <string name="software_engineer">Ingénieur logiciel</string>
+    <string name="summary">Ingénieur/développeur logiciel professionnel avec d\'excellentes compétences en communication, analytique et soucieux du détail.
+        Habile à rassembler toute l\'équipe pour accomplir une tâche dans les délais et avec un budget limité.
+        Dédié à fournir aux clients des solutions logicielles pratiques et simples à utiliser</string>
+    <string name="find_me">Trouve-moi</string>
+    <string name="logo">logo</string>
+    <string name="capabilities">I am confident that I would be a great fit for this role due to my 3+ years of experience in the field of android engineering and my eagerness to help the development your company. I have a proven and successful track record during my time at Amalitech company \n. I worked with teams and provided end-to-end solutions for clients. I also Lead developers to develop key projects for major clients(market place and aegis rider and autopart e-commerce app) In my resume, you can find more information on the skills and qualifications I would bring to the table, such as: Kotlin/Java Android Studio Fluent in kotlin coroutines Proficient in MVVM architecture Google material design component(MDC) Dependency Injection with Hilt Jetpack Compose libraries Room database/ Datastore Retrofit SDK Git</string>
+    <string name="my_capabilities">My capabilities</string>
+    <string name="drop_icon">drop icon</string>
+</resources>

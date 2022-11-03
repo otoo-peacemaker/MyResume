@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyResume</string>
+    <string name="user_name">Peacemaker Otoo</string>
+    <string name="software_engineer">Software Engineer</string>
+    <string name="summary">Professional Software Engineer/developer with excellent communication skills, who is analytical and detail-oriented. Adept at bringing the entire team together to accomplish a task on schedule and on a limited budget. Dedicated to providing clients with practical and simple-to-use software solutions</string>
+    <string name="find_me">Find me</string>
+    <string name="logo">logo</string>
+    <string name="capabilities">I am confident that I would be a great fit for this role due to my 3+ years of experience in the field of android engineering and my eagerness to help the development your company.
+        \n I have a proven and successful track record during my time at my current company. I worked with teams and provided end-to-end solutions for clients.
+        \n I also Lead developers to develop key projects for major clients(market place and aegis rider and autopart e-commerce app)
+        \n In my resume, you can find more information on the skills and qualifications I would bring to the table, such as:
+        Kotlin/Java Android Studio
+        Fluent in kotlin coroutines
+        Proficient in MVVM architecture
+        Google material design component(MDC)
+        Dependency Injection with Hilt
+        Jetpack Compose libraries
+        Room database/ Datastore
+        Retrofit SDK Git</string>
+
+    <!--<string name="bullted_list"><b><big>Bulleted List</big></b>
+        \n <li>Item one</li>
+        \n <li>Item two</li>
+        \n <li>Item three</li>
+    </string>-->
+    <string name="my_capabilities">My capabilities</string>
+    <string name="drop_icon">drop icon</string>
+    <string name="linked_in_logo">linked In Logo</string>
+    <string name="twitter_logo">Twitter logo</string>
+    <string name="github_logo">Github logo</string>
+</resources>

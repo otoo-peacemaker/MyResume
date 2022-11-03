@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layoutMargin">10dp</dimen>
+    <dimen name="layoutPadding">10dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="textSize_12">12sp</dimen>
+    <dimen name="textSize_20">20sp</dimen>
+    <dimen name="textSize_18">18sp</dimen>
+    <dimen name="textSize_25">25sp</dimen>
+    <dimen name="textSize_30">30sp</dimen>
+    <dimen name="textSize_36">36sp</dimen>
+
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="dimen10">10dp</dimen>
+    <dimen name="dimen20">20dp</dimen>
+    <dimen name="dimen30">30dp</dimen>
+
+    <!--dimen for portrait-->
+    <dimen name="logoPortrait">30dp</dimen>
+    <dimen name="profileIconPortrait">200dp</dimen>
+
+    <!--dimen for large screen and tablet-->
+    <dimen name="logoTablet">80dp</dimen>
+    <dimen name="dropIconSizeTablet">80dp</dimen>
+
+
+    <!--dimen for landscape-->
+    <dimen name="logoLandscape">60dp</dimen>
+    <dimen name="dropIconSizeLandscape">60dp</dimen>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi resumen</string>
+    <string name="user_name">Peacemaker Otoo</string>
+    <string name="software_engineer">Ingeniero de software</string>
+    <string name="summary">Ingeniero/desarrollador de software profesional con excelentes habilidades de comunicación, analítico y orientado a los detalles.
+        Experto en reunir a todo el equipo para realizar una tarea a tiempo y con un presupuesto limitado.
+        Dedicado a proporcionar a los clientes soluciones de software prácticas y fáciles de usar</string>
+    <string name="find_me">Encuentrame</string>
+    <string name="logo">logo</string>
+    <string name="capabilities">I am confident that I would be a great fit for this role due to my 3+ years of experience in the field of android engineering and my eagerness to help the development your company. I have a proven and successful track record during my time at Amalitech company. I worked with teams and provided end-to-end solutions for clients. I also Lead developers to develop key projects for major clients(market place and aegis rider and autopart e-commerce app) In my resume, you can find more information on the skills and qualifications I would bring to the table, such as: Kotlin/Java Android Studio Fluent in kotlin coroutines Proficient in MVVM architecture Google material design component(MDC) Dependency Injection with Hilt Jetpack Compose libraries Room database/ Datastore Retrofit SDK Git</string>
+    <string name="my_capabilities">My capabilities</string>
+    <string name="drop_icon">drop icon</string>
+</resources>
