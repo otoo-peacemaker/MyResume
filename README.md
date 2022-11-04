@@ -18,7 +18,8 @@ Features
 
 Libraries used:
 --------------------
-
+* mutableState from compose libray.
+* Google Material design
 
 Upcoming featues
 -------------------
