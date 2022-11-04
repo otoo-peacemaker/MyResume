@@ -69,10 +69,10 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="20dp"
-                    android:background="@color/find_me_light_background_color"
+                    android:background="@color/find_me_background_color"
                     android:padding="@dimen/padding_5"
                     android:text="@string/find_me"
-                    android:textColor="#2979FF"
+                    android:textColor="@color/find_me_text_color"
                     app:layout_constraintBottom_toBottomOf="@+id/linkendIn"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toBottomOf="@+id/title" />
@@ -84,7 +84,6 @@
                     android:clickable="true"
                     android:contentDescription="@string/twitter_logo"
                     android:focusable="true"
-                    android:scaleType="center"
                     android:src="@drawable/twitter"
                     app:layout_constraintEnd_toEndOf="@+id/userName"
                     app:layout_constraintTop_toTopOf="@+id/github" />
@@ -96,7 +95,6 @@
                     android:clickable="true"
                     android:contentDescription="@string/github_logo"
                     android:focusable="true"
-                    android:scaleType="center"
                     android:src="@drawable/github"
                     app:layout_constraintEnd_toStartOf="@+id/linkedIn"
                     app:layout_constraintStart_toEndOf="@+id/linkendIn"
