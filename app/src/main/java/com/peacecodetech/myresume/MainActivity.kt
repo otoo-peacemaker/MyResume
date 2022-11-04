@@ -20,6 +20,13 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        socialMediaLinks()
+        myCapabilities()
+    }
+
+
+    /** A function to my social media platforms */
+    private fun socialMediaLinks(){
         with(binding){
             //handling social media links
             twitter.setOnClickListener {
@@ -31,21 +38,22 @@ class MainActivity : AppCompatActivity() {
             linkedIn.setOnClickListener {
                 goToUrl(linkendInLink)
             }
+        }
+    }
 
-
-            //view my capabilities
+    /** A function that displays my capabilities to a company*/
+    private fun myCapabilities(){
+        with(binding){
             dropArrow.setOnClickListener {
                 expanded = !expanded
                 if (expanded){
                     capabilityId.visibility = View.VISIBLE
                     dropArrow.setImageResource(R.drawable.arrow_drop_up_24)
                 }else {
-                        capabilityId.visibility = View.GONE
-                        dropArrow.setImageResource(R.drawable.arrow_drop_down_24)
+                    capabilityId.visibility = View.GONE
+                    dropArrow.setImageResource(R.drawable.arrow_drop_down_24)
                 }
             }
-
         }
-
     }
 }
