@@ -32,7 +32,11 @@ Upcoming featues
 
 APK file
 ----------------
+[A link to APK file](https://github.com/otoo-peacemaker/MyResume/releases)
 
+Appetize.io
+--------------
+[A link to the Appetize.io](https://appetize.io/app/fb7ngrx3pyjttwgt45dfoe57pm?device=pixel4xl&osVersion=11.0&scale=75)
 
 Challenges
 ------------------
