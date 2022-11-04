@@ -50,7 +50,7 @@ class MainActivity : AppCompatActivity() {
                     capabilityId.visibility = View.VISIBLE
                     dropArrow.setImageResource(R.drawable.arrow_drop_up_24)
                 }else {
-                    capabilityId.visibility = View.GONE
+                    capabilityId.visibility = View.INVISIBLE
                     dropArrow.setImageResource(R.drawable.arrow_drop_down_24)
                 }
             }

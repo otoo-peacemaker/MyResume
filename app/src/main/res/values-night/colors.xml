@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#C1C1FF</color>
+    <color name="onPrimary">#22227F</color>
+    <color name="primaryContainer">#3A3B96</color>
+    <color name="onPrimaryContainer">#E1DFFF</color>
+    <color name="secondary">#C6C4DD</color>
+    <color name="secondaryContainer">#454559</color>
+    <color name="onSecondaryContainer">#E2E0F9</color>
+    <color name="tertiary">#E9B9D3</color>
+    <color name="onTertiary">#46263A</color>
+    <color name="tertiaryContainer">#5F3C51</color>
+    <color name="onTertiaryContainer">#FFD8EC</color>
+    <color name="error">#FFB4AB</color>
+    <color name="errorContainer">#93000A</color>
+    <color name="onError">#690005</color>
+    <color name="onErrorContainer">#FFDAD6</color>
+    <color name="background">#1C1B1F</color>
+    <color name="onBackground">#E5E1E6</color>
+    <color name="surface">#1C1B1F</color>
+    <color name="onSurface">#E5E1E6</color>
+    <color name="surfaceVariant">#47464F</color>
+    <color name="onSurfaceVariant">#C8C5D0</color>
+    <color name="outline">#918F9A</color>
+    <color name="inverseOnSurface">#1C1B1F</color>
+    <color name="inverseSurface">#E5E1E6</color>
+    <color name="inversePrimary">#5254AF</color>
+    <color name="shadow">#000000</color>
+
+    <color name="find_me_background_color">#000000</color>
+    <color name="find_me_text_color">#FFFFFF</color>
+
+</resources>
